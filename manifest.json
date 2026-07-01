@@ -4,7 +4,7 @@
   "version": "1.2.0",
   "description": "自定义世界观，自选User人设与Character角色，开启独属于你们的回合制群像恋爱修罗场！支持多存档副本、字数区间调控与人称设定。",
   "author": "<Molly1317>",
-  "entry": "https://raw.githubusercontent.com/Molly1317/Summer/main/manifest.json",
+  "entry": "https://raw.githubusercontent.com/Molly1317/Ryhdzz/main/manifest.json",
   "hash": "",
   "permissions": [
     "persona:read",
